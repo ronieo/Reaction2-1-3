@@ -1,2 +1,2 @@
-# zeitBisZumWehinachten_timer
+# timer
 Created with CodeSandbox
