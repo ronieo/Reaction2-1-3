@@ -1,8 +1,7 @@
 import "./styles.css";
 const countDownTitle = document.querySelector("h1");
-// You're gonna need this
+
 function getTime() {
-  // Don't delete this.
   const xmasDay = new Date("2021-12-24:00:00:00+0900");
   const today = new Date().getTime();
   const dayMinus = xmasDay - today;
